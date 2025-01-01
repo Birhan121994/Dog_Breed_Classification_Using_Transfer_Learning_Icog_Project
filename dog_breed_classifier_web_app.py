@@ -15,7 +15,7 @@ from io import BytesIO
 model = load_model('dog_breed_classifier_model_via_inceptionv3.h5')
 
 # Load breed labels
-dog_classes = os.listdir('https://drive.google.com/drive/folders/1sTVHI2RBaCJq_4SZvqxsg0z3UuFSu7m7?usp=drive_link/')
+dog_classes = os.listdir('http://vision.stanford.edu/aditya86/ImageNetDogs/images.tar')
 breeds = [breed.split('-', 1)[1] for breed in dog_classes]  # Extract breed names from folder names
 
 # Initialize LabelEncoder
