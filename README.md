@@ -39,7 +39,7 @@ The Stanford Dogs dataset is used in this project, which contains around 20,000 
 
 ## Usage
 
-1. Clone the repository: `git clone https://github.com/your-username/stanford-dog-breed-classification.git`
+1. Clone the repository
 2. Install the required libraries: `pip install -r requirements.txt`
 3. Download the Stanford Dogs dataset and extract it to the desired location.
 4. Open the Jupyter Notebook `Stanford_Dog_Breeds_Classification.ipynb` and update the dataset path accordingly.
