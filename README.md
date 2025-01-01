@@ -1,4 +1,4 @@
-# Stanford Dog Breeds Classification Using Transfer Learning
+# Dog Breeds Classification Using Transfer Learning
 
 This repository contains a Jupyter Notebook that demonstrates how to classify dog breeds using transfer learning with the InceptionV3 model in Keras.
 
